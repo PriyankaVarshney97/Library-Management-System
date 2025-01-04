@@ -1,0 +1,24 @@
+# Ignore Maven/Gradle output directories
+target/
+build/
+
+# Logs
+*.log
+/logs/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment settings
+application.properties
+application.yml
